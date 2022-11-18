@@ -15,7 +15,7 @@ int main()
 	
 	
 	for (int x = 1; x < N+1; x++) {
-		cout << "Output:" << rand() % 100 << endl;
+		cout << rand() % 100 << endl;
 
 			
 	}
